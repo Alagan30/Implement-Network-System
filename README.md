@@ -11,7 +11,7 @@ The repository consists of 2 files,
 
 3. In the client terminal enter comma seperated float values as an request to the server.
       
-      eg: 340.0, 10.9475, 315.9888
+      eg: 340.0, 10.9475, 315.9888, 255.246
       
 4. The server recieves the float values and process them for basecalling and returns the answer back to the client terminal.
     
